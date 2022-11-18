@@ -43,11 +43,11 @@ Fontti mitä käytämme on Khand.
 
 Koska sivustonen hostaus on tärkeää valitsimme pari eri vaihto ehtoa mitkä ovat listattu alas ja sitten kerromme mikä niisrä on paras ja selitämme sen.
 
-| Tarjoaja  | Hinta               | Linkki                                                       |   |   |
-|-----------|---------------------|--------------------------------------------------------------|---|---|
-| Hetzner   | Alk. 4,51$/Kuukausi | ![Hetzner](https://www.hetzner.com/cloud)                    |   |   |
-| OVH       | Alk. 4,20$/Kuukausi | ![OVH](https://www.ovhcloud.com/en/vps/)                     |   |   |
-| Hostinger | Alk. 3,95$/Kuukausi | ![Hostinger](https://www.hostinger.fi/vps-virtuaalipalvelin) |   |   |
+| Tarjoaja  | Hinta               | Linkki                                                       |
+|-----------|---------------------|--------------------------------------------------------------|
+| Hetzner   | Alk. 4,51$/Kuukausi | ![Hetzner](https://www.hetzner.com/cloud)                    |
+| OVH       | Alk. 4,20$/Kuukausi | ![OVH](https://www.ovhcloud.com/en/vps/)                     |
+| Hostinger | Alk. 3,95$/Kuukausi | ![Hostinger](https://www.hostinger.fi/vps-virtuaalipalvelin) |
 
 Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu alapuolelle.
 
