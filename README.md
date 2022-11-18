@@ -37,7 +37,7 @@ Fontti mitä käytämme on Khand.
 
 ### Rautalanka malli (Figma)
 
-![täältä](https://www.figma.com/file/9FoHso377XgWruMLHSSHSR/rautalanka-malli-%3A)?node-id=0%3A1&t=WpRwxxkt2aVUdM09-1) voit nähdä meidän rautalanka mallin (tarvitsee oikeudet)
+![täältä](http://gg.gg/shortlink1dxd) voit nähdä meidän rautalanka mallin (tarvitsee oikeudet)
 
 ## Sivuston hostaus
 
