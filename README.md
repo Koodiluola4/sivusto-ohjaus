@@ -2,7 +2,7 @@
 
 Tämä repositorio sisältää kaikki materiaalit ja tiedot Mulufikir projektia varten.
 
-tämän hetkisen demo sivun voi nähdä ![täältä](https://nya.kremowka.xyz/).
+tämän hetkisen demo sivun voi nähdä [täältä](https://nya.kremowka.xyz/).
 
 ## Graafinen ohjeisto
 
@@ -37,7 +37,7 @@ Fontti mitä käytämme on Khand.
 
 ### Rautalanka malli (Figma)
 
-![täältä](http://gg.gg/shortlink1dxd) voit nähdä meidän rautalanka mallin (tarvitsee oikeudet)
+[täältä](http://gg.gg/shortlink1dxd) voit nähdä meidän rautalanka mallin (tarvitsee oikeudet)
 
 ## Sivuston hostaus
 
