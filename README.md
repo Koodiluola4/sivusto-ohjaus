@@ -2,7 +2,7 @@
 
 Tämä repositorio sisältää kaikki materiaalit ja tiedot Mulufikir projektia varten.
 
-tämän hetkisen demo sivun voi nähdä ![täältä](https://nya.kremowka.xyz/).
+tämän hetkisen demo sivun voi nähdä [täältä](https://nya.kremowka.xyz/).
 
 ## Graafinen ohjeisto
 
@@ -37,17 +37,17 @@ Fontti mitä käytämme on Khand.
 
 ### Rautalanka malli (Figma)
 
-![täältä](https://www.figma.com/file/9FoHso377XgWruMLHSSHSR/rautalanka-malli-%3A)?node-id=0%3A1&t=WpRwxxkt2aVUdM09-1) voit nähdä meidän rautalanka mallin (tarvitsee oikeudet)
+[täältä](http://gg.gg/shortlink1dxd) voit nähdä meidän rautalanka mallin (tarvitsee oikeudet)
 
 ## Sivuston hostaus
 
 Koska sivustonen hostaus on tärkeää valitsimme pari eri vaihto ehtoa mitkä ovat listattu alas ja sitten kerromme mikä niisrä on paras ja selitämme sen.
 
-| Tarjoaja  | Hinta               | Linkki                                                       |   |   |
-|-----------|---------------------|--------------------------------------------------------------|---|---|
-| Hetzner   | Alk. 4,51$/Kuukausi | ![Hetzner](https://www.hetzner.com/cloud)                    |   |   |
-| OVH       | Alk. 4,20$/Kuukausi | ![OVH](https://www.ovhcloud.com/en/vps/)                     |   |   |
-| Hostinger | Alk. 3,95$/Kuukausi | ![Hostinger](https://www.hostinger.fi/vps-virtuaalipalvelin) |   |   |
+| Tarjoaja  | Hinta               | Linkki                                                       |
+|-----------|---------------------|--------------------------------------------------------------|
+| Hetzner   | Alk. 4,51$/Kuukausi | [Hetzner](https://www.hetzner.com/cloud)                    |
+| OVH       | Alk. 4,20$/Kuukausi | [OVH](https://www.ovhcloud.com/en/vps/)                     |
+| Hostinger | Alk. 3,95$/Kuukausi | [Hostinger](https://www.hostinger.fi/vps-virtuaalipalvelin) |
 
 Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu alapuolelle.
 
@@ -62,4 +62,3 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 - Hetzner myös muistuttaa sähköpostilla palvelimen maksusta, jotta et unohda maksaa sitä.
 
 - Hetzner on kilpailu kykyinen palvelimen tarjoaja, joka pystyy tarjoamaan halvimmat hinnat, koska he ovat olleet markkinoilla todella kauan. 
-
