@@ -30,10 +30,7 @@ Fontti mitä käytämme on Khand.
 
 ### Flyer
 
-<div>
-    <img src="/materiaali/flyer/flyer_white.png" width="200">
-    <img src="/materiaali/flyer/flyer_black.png" width="200">
-</div>
+![Mulufikirflyer](https://user-images.githubusercontent.com/113333041/203025574-6e12d19e-a5da-44e1-8fa3-a99fa6f3024a.png)
 
 ### Rautalanka malli (Figma)
 
