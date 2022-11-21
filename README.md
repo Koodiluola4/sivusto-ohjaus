@@ -31,8 +31,8 @@ Fontti mitä käytämme on Khand.
 ### Flyer
 
 <div>
- <img src="/materiaali/flyer/Flyer.png" width="200">
- <img src="/Graafinen.png" width="200">
+    <img src="/materiaali/flyer/flyer.png" width="200">
+    <img src="/Graafinen.png" width="200">
 </div>
 
 ### Rautalanka malli (Figma)
