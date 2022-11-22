@@ -69,3 +69,7 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 ## How to use Git
 
 ![GitUsage](materiaali/deprecated/git.png)
+
+## Deprecated files
+
+Vanhoja testejä, yrityksiä, kuvia, materiaalia voi löytää [Täältä](https://github.com/Koodiluola4/sivusto-ohjaus/tree/master/materiaali/deprecated)
