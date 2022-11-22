@@ -64,5 +64,8 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 - Hetzner on kilpailu kykyinen palvelimen tarjoaja, joka pystyy tarjoamaan halvimmat hinnat, koska he ovat olleet markkinoilla todella kauan. 
 
 
+Valitsimme hosting palveluksi Hetzner Cloud CX21 palvelimen (€ 6.37 / kk)
+
+
 
 ![Untitled](https://user-images.githubusercontent.com/113333041/203028991-0fed9584-7b81-4f05-830b-26c0ff4b0723.png)
