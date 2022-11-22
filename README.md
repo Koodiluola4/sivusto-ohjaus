@@ -41,6 +41,8 @@ Fontti mitä käytämme on Khand.
 
 ## Sivuston hostaus
 
+Valitsimme hosting palveluksi Hetzner Cloud CX21 palvelimen (€ 6.37 / kk)
+
 Koska sivustonen hostaus on tärkeää valitsimme pari eri vaihto ehtoa mitkä ovat listattu alas ja sitten kerromme mikä niisrä on paras ja selitämme sen.
 
 | Tarjoaja  | Hinta               | Linkki                                                       |
@@ -64,7 +66,7 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 - Hetzner on kilpailu kykyinen palvelimen tarjoaja, joka pystyy tarjoamaan halvimmat hinnat, koska he ovat olleet markkinoilla todella kauan. 
 
 
-Valitsimme hosting palveluksi Hetzner Cloud CX21 palvelimen (€ 6.37 / kk)
+
 
 
 
