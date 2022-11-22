@@ -3,18 +3,16 @@
 */
 
 body {
-    background-image: url(../img/bg_new.png);
-    background-repeat: repeat;
-    background-size: cover;
+    background: url(../img/bg_new.png) 0 0 fixed;
 }
 
+/*
 @media screen and (max-width: 800px) {
     body {
-        background-image: url(../img/bg_new_mobile.png);
-        background-repeat: repeat;
-        background-size: cover;
+        background: url(../img/bg_new_mobile.png) 0 0 fixed;
     }
 }
+*/
 
 @font-face {
     font-family: khand;
@@ -33,6 +31,10 @@ h1 {
 p {
     font-family: khand;
     font-size: 18px;
+}
+
+.testborder {
+    border: 1px solid #19C89C;
 }
 
 .label-white {
