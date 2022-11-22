@@ -2,7 +2,7 @@
 
 Tämä repositorio sisältää kaikki materiaalit ja tiedot Mulufikir projektia varten.
 
-Sivut mitkä teimme voivat nähdä `new_website` branchiltä minne voit mennä [tästä](https://github.com/Koodiluola4/sivusto-ohjaus/tree/new_website).
+tämän hetkisen demo sivun voi nähdä [täältä](https://nya.kremowka.xyz/).
 
 ## Graafinen ohjeisto
 
@@ -68,6 +68,10 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 
 
 
+## Git
 
+(tää pitäis siirtää jonnekki soveliaampaan paikkaan)
 
-![Untitled](https://user-images.githubusercontent.com/113333041/203028991-0fed9584-7b81-4f05-830b-26c0ff4b0723.png)
+<div>
+    <img src="/materiaali/deprecated/git.png" width="200">
+</div>
