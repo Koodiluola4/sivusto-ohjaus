@@ -36,7 +36,7 @@ Fontti mitä käytämme on Khand.
 
 ### Rautalanka malli (Figma)
 
-[täältä](http://gg.gg/shortlink1dxd) voit nähdä meidän rautalanka mallin (tarvitsee oikeudet)
+[Tästä](http://gg.gg/shortlink1dxd) voit nähdä meidän rautalanka mallin (tarvitsee oikeudet)
 
 ## Sivuston hostaus
 
@@ -64,7 +64,7 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 
 - Hetzner on kilpailu kykyinen palvelimen tarjoaja, joka pystyy tarjoamaan halvimmat hinnat, koska he ovat olleet markkinoilla todella kauan. 
 
-### ### END OF THE MULUFIKIR PROJECT ###
+### ### END OF THE MULUFIKIR PROJECT \###
 
 ## How to use Git
 
