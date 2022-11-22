@@ -32,7 +32,6 @@ Fontti mitä käytämme on Khand.
 
 <div>
     <img src="/materiaali/flyer/flyer.png" width="200">
-    <img src="/Graafinen.png" width="200">
 </div>
 
 ### Rautalanka malli (Figma)
@@ -65,13 +64,8 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 
 - Hetzner on kilpailu kykyinen palvelimen tarjoaja, joka pystyy tarjoamaan halvimmat hinnat, koska he ovat olleet markkinoilla todella kauan. 
 
+### ### END OF THE MULUFIKIR PROJECT ###
 
+## How to use Git
 
-
-## Git
-
-(tää pitäis siirtää jonnekki soveliaampaan paikkaan)
-
-<div>
-    <img src="/materiaali/deprecated/git.png" width="200">
-</div>
+![GitUsage](materiaali/deprecated/git.png)
