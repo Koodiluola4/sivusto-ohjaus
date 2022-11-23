@@ -2,7 +2,7 @@
 
 Tämä repositorio sisältää kaikki materiaalit ja tiedot Mulufikir projektia varten.
 
-tämän hetkisen demo sivun voi nähdä [täältä](https://nya.kremowka.xyz/).
+Sivut mitkä teimme voivat nähdä `new_website` branchiltä minne voit mennä [tästä](https://github.com/Koodiluola4/sivusto-ohjaus/tree/new_website).
 
 ## Graafinen ohjeisto
 
