@@ -32,7 +32,7 @@ Fontti mitä käytämme on Khand.
 
 <div>
     <img src="/materiaali/flyer/flyer.png" width="200">
-    ![Mulufikir Flyer](https://user-images.githubusercontent.com/113333041/203534134-9bbd7dc8-6769-47ac-9cb4-aaaf4c525bba.png)
+    <img src="https://user-images.githubusercontent.com/113333041/203534134-9bbd7dc8-6769-47ac-9cb4-aaaf4c525bba.png" width="200">
 </div>
 
 
