@@ -68,11 +68,20 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 
 # 24.11.2022
 
-facebook sivu saatiin tehtyä banneri kuvat siihen mukaan on myös valmiina
-Flyer on päivitetty paremmaksi
--kuvan vaihto
--pallojen lisääminen
+### Facebook sivu saatiin tehtyä
+- Banneri kuva valmiinna
+- Tehtiin profiili kuva
+- 
+### Flyer on päivitetty paremmaksi
+- Kuvan vaihto
+- Pallojen lisääminen
 
+
+# 25.11.2022
+
+### tehdään wordpress testi sivua
+-
+### yritetään saada upotettua google maps tyyppinen kartta
 
 
 
