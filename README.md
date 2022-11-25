@@ -66,6 +66,16 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 
 - Hetzner on kilpailu kykyinen palvelimen tarjoaja, joka pystyy tarjoamaan halvimmat hinnat, koska he ovat olleet markkinoilla todella kauan. 
 
+# 24.11.2022
+
+facebook sivu saatiin tehtyä banneri kuvat siihen mukaan on myös valmiina
+Flyer on päivitetty paremmaksi
+-kuvan vaihto
+-pallojen lisääminen
+
+
+
+
 ### ### END OF THE MULUFIKIR PROJECT \###
 
 ## How to use Git
