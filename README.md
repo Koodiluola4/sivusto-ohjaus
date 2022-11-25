@@ -85,7 +85,7 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 ### Tehdään wordpress testi sivua 📰
 -
 ### Lisättiin HTML upotettu google maps kartta  🗺
-
+```
     <!DOCTYPE html>
     <html>
     <body>
@@ -98,6 +98,7 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
         </iframe>
     </body>
     </html>
+   ```
 
 
 
