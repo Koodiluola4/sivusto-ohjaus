@@ -82,9 +82,9 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 
 # 25.11.2022
 
-### tehdään wordpress testi sivua 📰
+### Tehdään wordpress testi sivua 📰
 -
-### yritetään saada upotettua google maps tyyppinen kartta  🗺
+### Yritetään saada upotettua google maps tyyppinen kartta  🗺
 
 
 
