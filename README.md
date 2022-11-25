@@ -40,7 +40,7 @@ Fontti mitä käytämme on Khand.
 
 [Tästä](http://gg.gg/shortlink1dxd) voit nähdä meidän rautalanka mallin (tarvitsee oikeudet)
 
-## Sivuston hostaus
+## Sivuston hostaus 🌐
 
 Valitsimme hosting palveluksi Hetzner Cloud CX21 palvelimen (€ 6.37 / kk)
 
@@ -68,20 +68,23 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 
 # 24.11.2022
 
-### Facebook sivu saatiin tehtyä
+### Facebook sivu saatiin tehtyä  📲
 - Banneri kuva valmiinna
 - Tehtiin profiili kuva
 - 
-### Flyer on päivitetty paremmaksi
+### Flyer on päivitetty paremmaksi   📃
 - Kuvan vaihto
 - Pallojen lisääminen
+- Yhteystiedot lisätty learn more osioon
+- Facebook lisätty yhteystietoihin
+- Vaihdettiin tekstiä parempaan
 
 
 # 25.11.2022
 
-### tehdään wordpress testi sivua
+### tehdään wordpress testi sivua 📰
 -
-### yritetään saada upotettua google maps tyyppinen kartta
+### yritetään saada upotettua google maps tyyppinen kartta  🗺
 
 
 
