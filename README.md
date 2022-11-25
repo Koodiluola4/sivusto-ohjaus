@@ -86,18 +86,18 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
 -
 ### Lisättiin HTML upotettu google maps kartta  🗺
 
-         <!DOCTYPE html>
-        <html>
-        <body>
-            <iframe src="https://www.google.com/maps/embed?             pb=!1m18!1m12!1m3!1d3939.99353295153!2d38.743416514734854!3d9.064352593496325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b8f2fb8c8743b%3A0x303e9c47f57cb231!2sAddis%20Biruh%20Tsfa%20Kindergarten!5e0!3m2!1sfi!2sfi!4v1669364623042!5m2!1sfi!2sfi"
-                width="600" 
-                height="450" 
-                style="border:0;" 
-                allowfullscreen="" 
-                loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-            </iframe>
-        </body>
-        </html>
+    <!DOCTYPE html>
+    <html>
+    <body>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3939.99353295153!2d38.743416514734854!3d9.064352593496325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b8f2fb8c8743b%3A0x303e9c47f57cb231!2sAddis%20Biruh%20Tsfa%20Kindergarten!5e0!3m2!1sfi!2sfi!4v1669364623042!5m2!1sfi!2sfi"
+            width="600" 
+            height="450" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+    </body>
+    </html>
 
 
 
