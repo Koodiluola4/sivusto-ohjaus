@@ -99,7 +99,11 @@ Lopulta valitsimme Hetznerin hostaus tarjoajaksi syistä mitkä ovat listattu al
     </html>
    ```
    ### saatiin kuvat aseteltua hyvin etusivulle 🖼
+### 28.11.2022
+- muutettiin homepagella kuvan ja tekstin paikkaan ja lisättiin varjo tekstin laatikon alle
 
+### 29.11.2022
+- mietittiin toista verkkosivun ylläpito palvelua
 
 
 ### ### END OF THE MULUFIKIR PROJECT \###
